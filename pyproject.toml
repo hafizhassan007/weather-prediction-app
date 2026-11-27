@@ -13,4 +13,5 @@ dependencies = [
     "python-dotenv",
     "fpdf2",
     "pandas",
+    "google-genai>=3.6.1",
 ]
